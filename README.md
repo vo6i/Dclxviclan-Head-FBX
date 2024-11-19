@@ -5,6 +5,10 @@
 # Dclxviclan-Head-FBX
 ## ~~3Dmodel for~~
 ## ~~Game Development "Dclxviclan" head in fbx format~~
+
+https://dclxviclan.itch.io/padik
+https://dclxviclan.itch.io/ar-fighting-with-zombie
+
 ## ~~Standart Unity Toon Shaders~~
 
 ![](https://github.com/dclxviclangames/Dclxviclan-Head-FBX/blob/main/DclxviclanHeadToon.png)
